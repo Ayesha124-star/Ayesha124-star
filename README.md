@@ -1,14 +1,14 @@
 # Ayesha Cheema
 
 **Developer · Flutter Apps · ML Models · Real Systems**
-COMSATS University Islamabad | CGPA: 3.57 / 4.00
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-cheema-24bab6356/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ayesha124-star?tab=repositories)
 
 ---
 
-## Recruiter Summary
+## At a glance
 
 Developer with a strong CS foundation (CGPA 3.57, COMSATS) who builds and ships across three stacks: Flutter mobile apps with Firebase backends, deployed ML pipelines using TensorFlow and HuggingFace, and relational/NoSQL database systems. 8+ completed projects, 10+ certifications, straight-A Cambridge academic record.
 
