@@ -10,13 +10,13 @@
 
 ## At a glance
 
-Developer with a strong CS foundation (CGPA 3.57, COMSATS) who builds and ships across three stacks: Flutter mobile apps with Firebase backends, deployed ML pipelines using TensorFlow and HuggingFace, and relational/NoSQL database systems. 8+ completed projects, 10+ certifications, straight-A Cambridge academic record.
+Developer with a strong CS foundation who builds and ships across three stacks: Flutter mobile apps with Firebase backends, deployed ML pipelines using TensorFlow and HuggingFace, and relational/NoSQL database systems. 8+ completed projects, 10+ certifications, straight-A Cambridge academic record.
 
 ---
 
 ## About Me
 
-I build things that are real and deployable — Flutter apps backed by Firebase, live Flask APIs serving ML inference, and databases designed for production. My work spans mobile, deep learning, NLP, and data systems. I care about clean architecture and outcomes that hold up beyond the demo.
+I build things that are real and deployable , Flutter apps backed by Firebase, live Flask APIs serving ML inference, and databases designed for production. My work spans mobile, deep learning, NLP, and data systems. I care about clean architecture and outcomes that hold up beyond the demo.
 
 ---
 
